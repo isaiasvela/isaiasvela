@@ -2,24 +2,60 @@
 
 
 ## 🚀 About Me  
-- Passionate about **DevOps**, **Web Development** and **cybersecurity** 
-- Currently studying **Computer Engineering** (Information Technologies)  
-- Enjoy digging into how systems work — and how to make them faster, safer, and cleaner  
+- B.Sc. in Computer Engineering (Information Technologies) from Universitat Politècnica de Catalunya (UPC).
+- Focused on DevSecOps, Cloud and Cybersecurity.
+- I enjoy building secure cloud infrastructures, automating deployments and integrating security into the software development lifecycle.
+- Currently looking for opportunities as a DevSecOps / Cybersecurity Engineer.
 
 ---
 
-## 🧰 Tech Stack  
+## 🚀 Featured Projects
 
-### **Languages & Frameworks**
+### 🎓 **Bachelor's Thesis — Security Evaluation of Kubernetes Clusters through Attack Emulation and Runtime Detection**
+  - Designed and implemented a Kubernetes cybersecurity laboratory to evaluate runtime threat detection and adversary emulation techniques.
+  - Includes:
+    - 🧪 Home Kubernetes security lab
+    - 🔴 MITRE Caldera Kubernetes abilities
+    - 🛡️ Custom Falco detection rules
+    - 📊 Experimental evaluation and analysis
+  - Main repository:
+    https://github.com/isaiasvela/bsc-thesis-kubernetes-security
+    
+### 💼 **Work Time Management Platform**
+  - Production-like full-stack application deployed on Kubernetes featuring Docker, Next.js, MongoDB, SAML authentication and a multi-service architecture.
+  - https://github.com/isaiasvela/TimeTrack
+
+### 🌦️ **Weather Dashboard**
+  - Full-stack weather dashboard with automated CI/CD pipeline.
+  - https://github.com/isaiasvela/weather-dashboard
+
+## 🧰 Core Technologies
+
+### **DevSecOps & Cloud**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
+### **Security**
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-2E8B57?style=for-the-badge&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-1F92FE?style=for-the-badge&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Mitre Caldera](https://img.shields.io/badge/Mitre%20Caldera-1679A7?style=for-the-badge&logo=mitre-caldera&logoColor=white)
+![Falco](https://img.shields.io/badge/Falco-2496ED?style=for-the-badge&logo=falco&logoColor=white)
+
+### **Development**
+
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-%23000000.svg?style=for-the-badge&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
@@ -28,21 +64,10 @@
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### **DevOps & Cloud**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### **Cybersecurity & Tools**
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-2E8B57?style=for-the-badge&logo=nmap&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-1F92FE?style=for-the-badge&logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-### **Operating Systems**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### **Other**
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-%23000000.svg?style=for-the-badge&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
@@ -65,4 +90,4 @@
 - 🌐 Personal WebSite: [My personal web](https://isaiasvela.github.io)
 
 ---
-✨ *“Code, learn, break, repeat.”*  
+> **Building secure systems, one deployment at a time.**
