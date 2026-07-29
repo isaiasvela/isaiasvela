@@ -18,16 +18,19 @@
     - 🔴 MITRE Caldera Kubernetes abilities
     - 🛡️ Custom Falco detection rules
     - 📊 Experimental evaluation and analysis
-  - Main repository:
-    https://github.com/isaiasvela/bsc-thesis-kubernetes-security
+  - Main repository: https://github.com/isaiasvela/bsc-thesis-kubernetes-security
+
+### 🏗️ **GitHub Bootstrap**
+  - Terraform project that automates GitHub repository provisioning, including branch protection, CI workflows, security scanning and reusable repository templates.
+  - Repository: https://github.com/isaiasvela/github-bootstrap
     
 ### 💼 **Work Time Management Platform**
   - Production-like full-stack application deployed on Kubernetes featuring Docker, Next.js, MongoDB, SAML authentication and a multi-service architecture.
-  - https://github.com/isaiasvela/TimeTrack
+  - Repository: https://github.com/isaiasvela/TimeTrack
 
 ### 🌦️ **Weather Dashboard**
   - Full-stack weather dashboard with automated CI/CD pipeline.
-  - https://github.com/isaiasvela/weather-dashboard
+  - Repository: https://github.com/isaiasvela/weather-dashboard
 
 ## 🧰 Core Technologies
 
